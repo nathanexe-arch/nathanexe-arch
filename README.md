@@ -1,32 +1,32 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="550">
 </p>
 
-<h1 align="center">💻 Nathan Ramos Macedo</h1>
+<h1 align="center">Nathan Ramos Macedo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfff&size=24&center=true&vCenter=true&width=500&lines=Futuro+Dev+Full+Stack;Apaixonado+por+tecnologia;Sempre+aprendendo+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfff&size=25&center=true&vCenter=true&width=600&lines=Futuro+Dev+Full+Stack;Criando+e+aprendendo;Código+todos+os+dias;Rumo+ao+próximo+nível">
 </p>
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 ```bash
 > Nome: Nathan Ramos Macedo
 > Curso: Informática para Internet (Etec)
-> Foco: Python + Desenvolvimento Web
-> Status: Em evolução constante 🔥
+> Foco: Desenvolvimento Web 
+> Status: Disponivel a qualquer momento
 ```
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60">
 </p>
 
 ---
@@ -34,9 +34,10 @@
 
 ---
 
-## 🌐 Contato
+##  Contato Comigo
 
 * 📧 [nathanramosmacedo18@gmail.com](mailto:seuemail@email.com)
+* 19981229815
 
 ---
 
