@@ -1,84 +1,55 @@
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="500px">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 </p>
 
-<h1 align="center">👾 Nathan.exe</h1>
+<h1 align="center">💻 Nathan Ramos Macedo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00ff00&size=25&center=true&vCenter=true&width=600&lines=Inicializando+sistema...;Acesso+concedido...;Bem-vindo+ao+perfil;Futuro+Dev+Full+Stack;Sempre+evoluindo+🚀">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nathanexe-arch&label=VISITANTES&color=00ff00&style=for-the-badge">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfff&size=24&center=true&vCenter=true&width=500&lines=Futuro+Dev+Full+Stack;Apaixonado+por+tecnologia;Sempre+aprendendo+🚀">
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## 🚀 Sobre mim
 
-```bash id="lqnydl"
-> user: Nathan Ramos Macedo
-> role: estudante (Etec)
-> focus: Python | Web Dev
-> status: online 🟢
-> missão: virar dev absurdo 💻🔥
+```bash
+> Nome: Nathan Ramos Macedo
+> Curso: Informática para Internet (Etec)
+> Foco: Python + Desenvolvimento Web
+> Status: Em evolução constante 🔥
 ```
 
 ---
 
-## 🛠️ Arsenal (Tech Stack)
+## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=00ff00">
-  <img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=00ff00">
-  <img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=00ff00">
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=00ff00">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
 ---
 
-## 📊 Estatísticas do sistema
+## 📊 Estatísticas
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nathanexe-arch&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanexe-arch&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nathanexe-arch&show_icons=true&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanexe-arch&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nathanexe-arch&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Snake (atividade)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nathanexe-arch/nathanexe-arch/output/github-contribution-grid-snake.svg">
+  <img src="https://streak-stats.demolab.com?user=nathanexe-arch&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📡 Contato
+## 🌐 Contato
 
-```bash id="4j48n4"
-> email: nathanramosmacedo18@gmail.com
-> discord: tazhuehuebr
-> status: disponível
-```
-
----
-
-## ⚠️ Sistema
-
-```bash id="cfd3tx"
-> boot: OK
-> firewall: ativo 🛡️
-> energia: 100%
-> erro: nenhum encontrado
-```
+* 📧 [nathanramosmacedo18@gmail.com](mailto:seuemail@email.com)
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:1e1e2f&height=120&section=footer"/>
 </p>
