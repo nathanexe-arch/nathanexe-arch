@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 NATHAN RAMOS MACEDO
+# NATHAN RAMOS MACEDO
 
 ### `Estudante • Tecnologia • Desenvolvimento • Logística`
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 👋 Sobre mim
+## Sobre mim
 
 Olá! Eu sou **Nathan**, estudante interessado em tecnologia, programação, automação e logística.
 
