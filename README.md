@@ -1,174 +1,118 @@
 <div align="center">
 
-<img src="./assets/kaneki-top.gif" width="700">
+<img src="https://media1.tenor.com/m/qWAQ3k2Ef_4AAAAd/tokyo-ghoul.gif" width="700">
 
-<br>
+<br><br>
 
-# 🩸 NATHAN RAMOS MACEDO
+# NATHAN RAMOS MACEDO
 
 ### `nathanexe-arch`
 
-`ESTUDANTE • TECNOLOGIA • DESENVOLVIMENTO • LOGÍSTICA`
+**Estudante • Tecnologia • Desenvolvimento • Logística**
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:250000,100:8B0000&height=150&section=header&text=NATHANEXE&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+[![GitHub](https://img.shields.io/badge/GitHub-nathanexe--arch-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/nathanexe-arch)
 
 </div>
 
 ---
+
+## Sobre mim
+
+Sou estudante interessado em **tecnologia, programação, automação e logística**.
+
+Gosto de aprender desenvolvendo projetos práticos, explorando desenvolvimento web, Arduino, eletrônica e diferentes formas de aplicar tecnologia para resolver problemas.
 
 <div align="center">
 
-# 🩸 「 東京喰種 」
-
-### `WELCOME TO MY PROFILE`
+<img src="https://media1.tenor.com/m/qWAQ3k2Ef_4AAAAd/tokyo-ghoul.gif" width="420">
 
 </div>
 
 ---
 
-## 🕷️ ABOUT ME
-
-```text
-╔══════════════════════════════════════╗
-║                                      ║
-║  > Nathan Ramos Macedo               ║
-║                                      ║
-║  [+] Estudante                       ║
-║  [+] Desenvolvimento Web             ║
-║  [+] Arduino & Eletrônica            ║
-║  [+] Logística                       ║
-║  [+] Automação                       ║
-║  [+] Git & GitHub                    ║
-║                                      ║
-║  > Transformando ideias em projetos. ║
-║                                      ║
-╚══════════════════════════════════════╝
-```
+## Tecnologias
 
 <div align="center">
 
-<img src="./assets/kaneki-middle.gif" width="500">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,arduino,git,github,vscode&theme=dark">
 
 </div>
 
 ---
 
-## ⚡ TECH STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,arduino,git,github,vscode&theme=dark"/>
-
-</div>
-
----
-
-## 🩸 PROJECTS
+## Projetos
 
 ### 📡 Radar Ultrassônico
 
-Sistema desenvolvido com **Arduino, sensor ultrassônico e servo motor** para detectar objetos e representar a área monitorada visualmente.
+Projeto utilizando Arduino, sensor ultrassônico e servo motor para detectar objetos e representar a área monitorada visualmente.
 
-`Arduino` `Ultrassônico` `Servo Motor` `HTML` `CSS` `JavaScript`
-
----
+`Arduino` `HTML` `CSS` `JavaScript`
 
 ### 🔐 Sistema de Identificação
 
-Projeto utilizando **Arduino e RFID**, explorando identificação e integração entre hardware e software.
+Projeto utilizando Arduino e RFID para estudar identificação e integração entre hardware e software.
 
 `Arduino` `RFID` `C/C++`
 
----
-
 ### 🤠 Urna do Velho Oeste
 
-Projeto web inspirado em **Red Dead Redemption 2**, desenvolvido para praticar lógica, interface e interação com JavaScript.
+Projeto web inspirado em **Red Dead Redemption 2**, desenvolvido para praticar HTML, CSS e JavaScript.
 
 `HTML` `CSS` `JavaScript`
 
----
-
 ### 📦 Logística & Tecnologia
 
-Projetos acadêmicos relacionados a **estoque, organização, processos logísticos e tecnologia aplicada à logística**.
+Projetos acadêmicos relacionados a estoque, organização, processos logísticos e tecnologia aplicada à logística.
 
 `Logística` `Excel` `Gestão`
 
 ---
 
+## Atualmente estudando
+
 <div align="center">
 
-<img src="./assets/kaneki-middle.gif" width="350">
+`HTML` · `CSS` · `JavaScript` · `PHP` · `Arduino` · `Git` · `GitHub`
 
 </div>
 
 ---
 
-## 🧠 CURRENTLY LEARNING
+## Conquistas
 
-```text
-┌─────────────────────────────┐
-│ WEB                         │
-│ ├── HTML                    │
-│ ├── CSS                     │
-│ └── JavaScript              │
-│                             │
-│ BACKEND                     │
-│ └── PHP                     │
-│                             │
-│ HARDWARE                    │
-│ ├── Arduino                 │
-│ └── Eletrônica              │
-│                             │
-│ TOOLS                       │
-│ ├── Git                     │
-│ ├── GitHub                  │
-│ └── VS Code                 │
-└─────────────────────────────┘
-```
+**🥈 Locker ID**
+2º lugar em projeto desenvolvido durante minha formação.
 
----
+**📊 Excel Básico**
+Certificação pela Santander Open Academy.
 
-## 🏆 ACHIEVEMENTS
-
-### 🥈 Locker ID
-
-**2º lugar** em projeto desenvolvido durante minha formação.
-
-### 📊 Excel
-
-Certificação em **Excel Básico** pela Santander Open Academy.
-
-### 📦 Logística
-
+**📦 Logística**
 Formação e projetos acadêmicos relacionados à área.
 
-### 💻 Informática para Internet
-
+**💻 Informática para Internet**
 Formação voltada para tecnologia e desenvolvimento.
 
 ---
 
-## 📊 GITHUB STATS
+## GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nathanexe-arch&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=440000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nathanexe-arch&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=ffffff&icon_color=ff4444&text_color=ffffff&border_color=333333">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanexe-arch&layout=compact&theme=dark&bg_color=0d0d0d&title_color=ff0000&text_color=ffffff&border_color=440000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanexe-arch&layout=compact&theme=dark&bg_color=0d0d0d&title_color=ffffff&text_color=ffffff&border_color=333333">
 
 </div>
 
 ---
 
-## 🔥 GITHUB STREAK
+## GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nathanexe-arch&theme=dark&background=0d0d0d&border=440000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ffffff&dates=888888"/>
+<img src="https://streak-stats.demolab.com?user=nathanexe-arch&theme=dark&background=0d0d0d&border=333333&ring=ffffff&fire=ff4444&currStreakLabel=ffffff">
 
 </div>
 
@@ -176,14 +120,8 @@ Formação voltada para tecnologia e desenvolvimento.
 
 <div align="center">
 
-<img src="./assets/kaneki-bottom.gif" width="600">
+### Thanks for visiting my profile.
 
-<br><br>
-
-## 🩸 `BUILD • BREAK • FIX • REPEAT`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:250000,100:050505&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:550000&height=100&section=footer">
 
 </div>
