@@ -1,13 +1,12 @@
 <div align="center">
 
-# Nathan Ramos Macedo
+# NATHAN RAMOS MACEDO
 
 ### `nathanexe-arch`
 
-**Estudante de Tecnologia • Desenvolvimento • Automação • Logística**
+**Technology • Development • Automation**
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/nathanexe-arch)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge\&logo=linkedin\&logoColor=white)](#)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:333333&height=120&section=header" width="100%">
 
 </div>
 
@@ -15,11 +14,11 @@
 
 ## Sobre mim
 
-Sou estudante com interesse em **tecnologia, desenvolvimento de software, automação e logística**.
+Sou estudante interessado em **tecnologia, desenvolvimento, automação e logística**.
 
-Gosto de aprender através de projetos práticos, combinando programação, eletrônica e resolução de problemas.
+Gosto de aprender através de projetos práticos, explorando desenvolvimento web, Arduino, eletrônica e diferentes formas de aplicar tecnologia para resolver problemas.
 
-Atualmente estou desenvolvendo minhas habilidades em **desenvolvimento web, Arduino, Git e programação**.
+Atualmente estou desenvolvendo minhas habilidades em **programação, desenvolvimento web e automação**.
 
 ---
 
@@ -37,73 +36,63 @@ Atualmente estou desenvolvendo minhas habilidades em **desenvolvimento web, Ardu
 
 ### Radar Ultrassônico
 
-Sistema desenvolvido com **Arduino, sensor ultrassônico e servo motor**, explorando comunicação entre hardware e software e representação visual dos dados.
+Sistema desenvolvido com Arduino, sensor ultrassônico e servo motor para detectar objetos e representar a área monitorada visualmente.
 
-**Tecnologias:** `Arduino` `C/C++` `HTML` `CSS` `JavaScript`
-
----
+`Arduino` `C/C++` `HTML` `CSS` `JavaScript`
 
 ### Sistema de Identificação
 
-Projeto de automação utilizando **Arduino e RFID**, desenvolvido para estudar identificação, leitura de dados e integração entre hardware e software.
+Projeto utilizando Arduino e RFID para estudar identificação e integração entre hardware e software.
 
-**Tecnologias:** `Arduino` `RFID` `C/C++`
-
----
+`Arduino` `RFID` `C/C++`
 
 ### Urna do Velho Oeste
 
-Projeto web inspirado no universo de **Red Dead Redemption 2**, desenvolvido como exercício prático de desenvolvimento front-end.
+Projeto web inspirado em Red Dead Redemption 2, desenvolvido para praticar desenvolvimento front-end.
 
-**Tecnologias:** `HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JavaScript`
 
----
+### Logística & Tecnologia
 
-### Projetos de Logística
+Projetos acadêmicos relacionados a estoque, organização, processos logísticos e tecnologia aplicada à logística.
 
-Projetos acadêmicos envolvendo **estoque, organização, processos logísticos e tecnologia aplicada à gestão**.
-
-**Tecnologias:** `Excel` `Logística` `Gestão`
+`Excel` `Logística` `Gestão`
 
 ---
 
 ## Atualmente estudando
 
-```text
-HTML
-CSS
-JavaScript
-PHP
-Arduino
-Git
-GitHub
-```
+<div align="center">
+
+`HTML` · `CSS` · `JavaScript` · `PHP` · `Arduino` · `Git` · `GitHub`
+
+</div>
 
 ---
 
 ## Formação & Conquistas
 
-**Locker ID**
-🥈 2º lugar em projeto desenvolvido durante minha formação.
+**🥈 Locker ID**
+2º lugar em projeto desenvolvido durante minha formação.
 
 **Excel Básico**
 Certificação pela Santander Open Academy.
 
 **Logística**
-Formação técnica com projetos voltados para processos, estoque e gestão.
+Formação e projetos acadêmicos relacionados à área.
 
 **Informática para Internet**
-Formação voltada para desenvolvimento e tecnologia.
+Formação voltada para tecnologia e desenvolvimento.
 
 ---
 
-## GitHub
+## GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nathanexe-arch&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nathanexe-arch&show_icons=true&theme=dark&hide_border=true">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanexe-arch&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanexe-arch&layout=compact&theme=dark&hide_border=true">
 
 </div>
 
@@ -111,8 +100,8 @@ Formação voltada para desenvolvimento e tecnologia.
 
 <div align="center">
 
-### Obrigado por visitar meu perfil.
+### `Building. Learning. Improving.`
 
-`Building. Learning. Improving.`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:333333&height=100&section=footer" width="100%">
 
 </div>
