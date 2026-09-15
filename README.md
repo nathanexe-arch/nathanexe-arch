@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Sou estudante interessado em tecnologia, desenvolvimento de sistemas e automação.
 
