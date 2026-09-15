@@ -1,16 +1,18 @@
 <div align="center">
 
-<img src="https://media.tenor.com/your-gif-url.gif" width="700">
+<img src="./assets/kaneki-top.gif" width="700">
+
+<br>
 
 # 🩸 NATHAN RAMOS MACEDO
 
 ### `nathanexe-arch`
 
-`ESTUDANTE • DEVELOPER • LOGÍSTICA • TECNOLOGIA`
+`ESTUDANTE • TECNOLOGIA • DESENVOLVIMENTO • LOGÍSTICA`
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:300000,100:990000&height=160&section=header&text=NATHANEXE&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:250000,100:8B0000&height=150&section=header&text=NATHANEXE&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 </div>
 
@@ -29,21 +31,25 @@
 ## 🕷️ ABOUT ME
 
 ```text
-> Nathan Ramos Macedo
-
-[+] Estudante
-[+] Desenvolvimento Web
-[+] Arduino & Eletrônica
-[+] Logística
-[+] Automação
-[+] Git & GitHub
-
-> Transformando ideias em projetos.
+╔══════════════════════════════════════╗
+║                                      ║
+║  > Nathan Ramos Macedo               ║
+║                                      ║
+║  [+] Estudante                       ║
+║  [+] Desenvolvimento Web             ║
+║  [+] Arduino & Eletrônica            ║
+║  [+] Logística                       ║
+║  [+] Automação                       ║
+║  [+] Git & GitHub                    ║
+║                                      ║
+║  > Transformando ideias em projetos. ║
+║                                      ║
+╚══════════════════════════════════════╝
 ```
 
 <div align="center">
 
-<img src="https://gifdb.com/gif/tokyo-ghoul-kaneki-red-eye-n2lhwyrxsaa69eus.gif" width="500">
+<img src="./assets/kaneki-middle.gif" width="500">
 
 </div>
 
@@ -53,7 +59,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,arduino,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,arduino,git,github,vscode&theme=dark"/>
 
 </div>
 
@@ -63,7 +69,7 @@
 
 ### 📡 Radar Ultrassônico
 
-Sistema desenvolvido com Arduino, sensor ultrassônico e servo motor para detectar objetos e representar a área monitorada.
+Sistema desenvolvido com **Arduino, sensor ultrassônico e servo motor** para detectar objetos e representar a área monitorada visualmente.
 
 `Arduino` `Ultrassônico` `Servo Motor` `HTML` `CSS` `JavaScript`
 
@@ -71,7 +77,7 @@ Sistema desenvolvido com Arduino, sensor ultrassônico e servo motor para detect
 
 ### 🔐 Sistema de Identificação
 
-Projeto utilizando Arduino e RFID para estudar identificação e integração entre hardware e software.
+Projeto utilizando **Arduino e RFID**, explorando identificação e integração entre hardware e software.
 
 `Arduino` `RFID` `C/C++`
 
@@ -79,7 +85,7 @@ Projeto utilizando Arduino e RFID para estudar identificação e integração en
 
 ### 🤠 Urna do Velho Oeste
 
-Projeto web inspirado em Red Dead Redemption 2, desenvolvido utilizando HTML, CSS e JavaScript.
+Projeto web inspirado em **Red Dead Redemption 2**, desenvolvido para praticar lógica, interface e interação com JavaScript.
 
 `HTML` `CSS` `JavaScript`
 
@@ -87,7 +93,7 @@ Projeto web inspirado em Red Dead Redemption 2, desenvolvido utilizando HTML, CS
 
 ### 📦 Logística & Tecnologia
 
-Projetos acadêmicos relacionados a estoque, organização, processos e tecnologia aplicada à logística.
+Projetos acadêmicos relacionados a **estoque, organização, processos logísticos e tecnologia aplicada à logística**.
 
 `Logística` `Excel` `Gestão`
 
@@ -95,7 +101,7 @@ Projetos acadêmicos relacionados a estoque, organização, processos e tecnolog
 
 <div align="center">
 
-<img src="https://gifdb.com/gif/red-eye-anime-tokyo-ghoul-kaneki-pj4yjo3epw8ezjx7.gif" width="450">
+<img src="./assets/kaneki-middle.gif" width="350">
 
 </div>
 
@@ -104,31 +110,44 @@ Projetos acadêmicos relacionados a estoque, organização, processos e tecnolog
 ## 🧠 CURRENTLY LEARNING
 
 ```text
-HTML / CSS
-JavaScript
-PHP
-Arduino
-Eletrônica
-Git
-GitHub
-Desenvolvimento Web
-Logística
+┌─────────────────────────────┐
+│ WEB                         │
+│ ├── HTML                    │
+│ ├── CSS                     │
+│ └── JavaScript              │
+│                             │
+│ BACKEND                     │
+│ └── PHP                     │
+│                             │
+│ HARDWARE                    │
+│ ├── Arduino                 │
+│ └── Eletrônica              │
+│                             │
+│ TOOLS                       │
+│ ├── Git                     │
+│ ├── GitHub                  │
+│ └── VS Code                 │
+└─────────────────────────────┘
 ```
 
 ---
 
 ## 🏆 ACHIEVEMENTS
 
-🥈 **Locker ID**
-2º lugar em projeto desenvolvido durante minha formação.
+### 🥈 Locker ID
 
-📊 **Excel Básico**
-Certificação pela Santander Open Academy.
+**2º lugar** em projeto desenvolvido durante minha formação.
 
-📦 **Logística**
+### 📊 Excel
+
+Certificação em **Excel Básico** pela Santander Open Academy.
+
+### 📦 Logística
+
 Formação e projetos acadêmicos relacionados à área.
 
-💻 **Informática para Internet**
+### 💻 Informática para Internet
+
 Formação voltada para tecnologia e desenvolvimento.
 
 ---
@@ -157,8 +176,14 @@ Formação voltada para tecnologia e desenvolvimento.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:990000,50:300000,100:050505&height=120&section=footer"/>
+<img src="./assets/kaneki-bottom.gif" width="600">
 
-### `🩸 BUILD • BREAK • FIX • REPEAT 🩸`
+<br><br>
+
+## 🩸 `BUILD • BREAK • FIX • REPEAT`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:250000,100:050505&height=120&section=footer"/>
 
 </div>
