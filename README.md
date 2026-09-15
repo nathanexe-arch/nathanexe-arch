@@ -1,46 +1,167 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="550">
-</p>
+<div align="center">
 
-<h1 align="center">Nathan Ramos Macedo</h1>
+# 👨‍💻 NATHAN RAMOS MACEDO
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfff&size=25&center=true&vCenter=true&width=600&lines=Futuro+Dev+Full+Stack;Criando+e+aprendendo;Código+todos+os+dias;Rumo+ao+próximo+nível">
-</p>
+### `Estudante • Tecnologia • Desenvolvimento • Logística`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Nathan%20Ramos%20Macedo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+</div>
 
 ---
 
-##  Sobre mim
+## 👋 Sobre mim
 
-```bash
-> Nome: Nathan Ramos Macedo
-> Curso: Informática para Internet (Etec)
-> Foco: Desenvolvimento Web 
-> Status: Disponivel a qualquer momento
+Olá! Eu sou **Nathan**, estudante interessado em tecnologia, programação, automação e logística.
+
+Gosto de aprender colocando a mão na massa. Meus projetos envolvem desde **desenvolvimento web** até **Arduino, sensores e automação**, sempre buscando transformar uma ideia em algo funcional.
+
+```text
+🎓 Estudante
+💻 Desenvolvimento
+🔧 Arduino & Eletrônica
+📦 Logística
+🌐 Projetos Web
+📚 Aprendizado contínuo
 ```
 
 ---
 
-## Tecnologias
+## ⚡ Minha Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60">
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,php,arduino,git,github,vscode" />
 
+</div>
 
 ---
 
-##  Contato Comigo
+## 🚀 Projetos
 
-* 📧 [nathanramosmacedo18@gmail.com](mailto:seuemail@email.com)
-* 19981229815
+### 📡 Radar Ultrassônico
+
+Sistema utilizando Arduino, servo motor e sensor ultrassônico para detectar objetos e representar a área monitorada visualmente.
+
+**Tecnologias**
+
+`Arduino` `Ultrassônico` `Servo Motor` `HTML` `CSS` `JavaScript`
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:1e1e2f&height=120&section=footer"/>
-</p>
+### 🔐 Sistema de Identificação
+
+Projeto de automação utilizando Arduino e RFID para estudar identificação e integração entre hardware e software.
+
+**Tecnologias**
+
+`Arduino` `RFID` `C/C++`
+
+---
+
+### 🤠 Urna do Velho Oeste
+
+Uma urna eleitoral temática inspirada no universo de **Red Dead Redemption 2**, desenvolvida para praticar HTML, CSS e JavaScript.
+
+**Tecnologias**
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+### 📦 Projetos de Logística
+
+Projetos acadêmicos relacionados a estoque, organização, processos e aplicação de tecnologia na área de logística.
+
+**Tecnologias**
+
+`Logística` `Excel` `Tecnologia` `Gestão`
+
+---
+
+## 🧠 Atualmente estudando
+
+| Área              | Foco                                          |
+| ----------------- | --------------------------------------------- |
+| 🌐 Web            | HTML, CSS, JavaScript                         |
+| 🐘 Backend        | PHP                                           |
+| 🔧 Hardware       | Arduino e eletrônica                          |
+| 🗂️ Versionamento | Git e GitHub                                  |
+| 📦 Logística      | Processos e gestão                            |
+| 💡 Projetos       | Integração entre tecnologia e problemas reais |
+
+---
+
+## 🏆 Conquistas
+
+### 🥈 Projeto Locker ID
+
+**2º lugar** em projeto desenvolvido durante minha formação, envolvendo uma solução de identificação e organização.
+
+### 📊 Excel
+
+Certificação em **Excel Básico** pela Santander Open Academy.
+
+### 📦 Logística
+
+Formação e projetos acadêmicos relacionados à área de logística.
+
+### 💻 Informática para Internet
+
+Formação voltada para tecnologia e desenvolvimento de aplicações.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nathanexe-arch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanexe-arch&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Atividade
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nathanexe-arch\&theme=tokyonight\&hide_border=true)
+
+</div>
+
+---
+
+## 📈 Meu objetivo
+
+Continuar desenvolvendo minhas habilidades em tecnologia através de projetos próprios, estudos e experiências práticas.
+
+Meu foco é construir uma base sólida em **desenvolvimento, automação e tecnologia**, enquanto exploro diferentes áreas e descubro onde posso evoluir ainda mais.
+
+---
+
+## 🌎 Conecte-se comigo
+
+<div align="center">
+
+<a href="nathanmacedo">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="nathanramosmacedo18@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 `Code. Build. Learn. Repeat.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer"/>
+
+</div>
