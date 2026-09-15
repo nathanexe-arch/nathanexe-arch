@@ -1,167 +1,197 @@
 <div align="center">
 
-# NATHAN RAMOS MACEDO
+# 🩸 NATHAN RAMOS MACEDO
 
-### `Estudante • Tecnologia • Desenvolvimento • Logística`
+### `ESTUDANTE • DESENVOLVIMENTO • TECNOLOGIA`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Nathan%20Ramos%20Macedo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:220000,100:8B0000&height=200&section=header&text=NATHAN%20RAMOS%20MACEDO&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 </div>
 
 ---
 
-## Sobre mim
+<div align="center">
 
-Olá! Eu sou **Nathan**, estudante interessado em tecnologia, programação, automação e logística.
+### 「 東京喰種 」
 
-Gosto de aprender colocando a mão na massa. Meus projetos envolvem desde **desenvolvimento web** até **Arduino, sensores e automação**, sempre buscando transformar uma ideia em algo funcional.
+`人間か、喰種か。`
+
+</div>
+
+---
+
+## 🩸 𝙒𝙃𝙊 𝘼𝙈 𝙄?
+
+> **Nathan Ramos Macedo**
+
+Sou estudante interessado em **tecnologia, programação, automação e logística**.
+
+Gosto de aprender através de projetos práticos, explorando desde desenvolvimento web até Arduino, eletrônica e automação.
 
 ```text
-🎓 Estudante
-💻 Desenvolvimento
-🔧 Arduino & Eletrônica
-📦 Logística
-🌐 Projetos Web
-📚 Aprendizado contínuo
+╔══════════════════════════════════════╗
+║  🎓  ESTUDANTE                       ║
+║  💻  DESENVOLVIMENTO                 ║
+║  🔧  ARDUINO / ELETRÔNICA            ║
+║  📦  LOGÍSTICA                       ║
+║  🌐  DESENVOLVIMENTO WEB             ║
+║  🩸  BUILD • BREAK • REBUILD          ║
+╚══════════════════════════════════════╝
 ```
 
 ---
 
-## ⚡ Minha Stack
+## 🕷️ 𝙏𝙀𝘾𝙃 𝙎𝙏𝘼𝘾𝙆
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,arduino,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,arduino,git,github,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## 🚀 Projetos
+## 🩸 𝙋𝙍𝙊𝙅𝙀𝘾𝙏𝙎
 
-### 📡 Radar Ultrassônico
+### 📡 `RADAR ULTRASSÔNICO`
 
-Sistema utilizando Arduino, servo motor e sensor ultrassônico para detectar objetos e representar a área monitorada visualmente.
+Projeto utilizando **Arduino + sensor ultrassônico + servo motor**, criando um sistema capaz de detectar objetos e representar a área monitorada visualmente.
 
-**Tecnologias**
+```text
+ARDUINO
+   │
+   ├── SENSOR ULTRASSÔNICO
+   │
+   ├── SERVO MOTOR
+   │
+   └── INTERFACE WEB
+```
 
-`Arduino` `Ultrassônico` `Servo Motor` `HTML` `CSS` `JavaScript`
+`Arduino` `Ultrassônico` `Servo` `HTML` `CSS` `JavaScript`
 
 ---
 
-### 🔐 Sistema de Identificação
+### 🔐 `SISTEMA DE IDENTIFICAÇÃO`
 
-Projeto de automação utilizando Arduino e RFID para estudar identificação e integração entre hardware e software.
-
-**Tecnologias**
+Projeto de automação utilizando **RFID**, explorando identificação, leitura de cartões e integração entre hardware e software.
 
 `Arduino` `RFID` `C/C++`
 
 ---
 
-### 🤠 Urna do Velho Oeste
+### 🤠 `URNA DO VELHO OESTE`
 
-Uma urna eleitoral temática inspirada no universo de **Red Dead Redemption 2**, desenvolvida para praticar HTML, CSS e JavaScript.
-
-**Tecnologias**
+Projeto web inspirado no universo de **Red Dead Redemption 2**, desenvolvido para praticar lógica de programação, interface e interação com JavaScript.
 
 `HTML` `CSS` `JavaScript`
 
 ---
 
-### 📦 Projetos de Logística
+### 📦 `LOGÍSTICA & TECNOLOGIA`
 
-Projetos acadêmicos relacionados a estoque, organização, processos e aplicação de tecnologia na área de logística.
+Projetos acadêmicos relacionados a **estoque, organização, processos logísticos e tecnologia aplicada à logística**.
 
-**Tecnologias**
-
-`Logística` `Excel` `Tecnologia` `Gestão`
+`Logística` `Excel` `Gestão`
 
 ---
 
-## 🧠 Atualmente estudando
+## 🧠 𝙎𝙏𝙐𝘿𝙔𝙄𝙉𝙂
 
-| Área              | Foco                                          |
-| ----------------- | --------------------------------------------- |
-| 🌐 Web            | HTML, CSS, JavaScript                         |
-| 🐘 Backend        | PHP                                           |
-| 🔧 Hardware       | Arduino e eletrônica                          |
-| 🗂️ Versionamento | Git e GitHub                                  |
-| 📦 Logística      | Processos e gestão                            |
-| 💡 Projetos       | Integração entre tecnologia e problemas reais |
+```text
+┌─────────────────────────────────────┐
+│                                     │
+│  WEB                                │
+│  ├── HTML                           │
+│  ├── CSS                            │
+│  └── JavaScript                     │
+│                                     │
+│  BACKEND                            │
+│  └── PHP                            │
+│                                     │
+│  HARDWARE                           │
+│  ├── Arduino                        │
+│  └── Eletrônica                     │
+│                                     │
+│  TOOLS                              │
+│  ├── Git                            │
+│  ├── GitHub                         │
+│  └── VS Code                        │
+│                                     │
+└─────────────────────────────────────┘
+```
 
 ---
 
-## 🏆 Conquistas
+## 🥀 𝘼𝘾𝙃𝙄𝙀𝙑𝙀𝙈𝙀𝙉𝙏𝙎
 
-### 🥈 Projeto Locker ID
+### 🥈 `LOCKER ID`
 
-**2º lugar** em projeto desenvolvido durante minha formação, envolvendo uma solução de identificação e organização.
+**2º lugar** em projeto desenvolvido durante minha formação.
 
-### 📊 Excel
+### 📊 `EXCEL`
 
 Certificação em **Excel Básico** pela Santander Open Academy.
 
-### 📦 Logística
+### 📦 `LOGÍSTICA`
 
 Formação e projetos acadêmicos relacionados à área de logística.
 
-### 💻 Informática para Internet
+### 💻 `INFORMÁTICA PARA INTERNET`
 
-Formação voltada para tecnologia e desenvolvimento de aplicações.
+Formação voltada para tecnologia e desenvolvimento.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 𝙂𝙄𝙏𝙃𝙐𝘽 𝙎𝙏𝘼𝙏𝙎
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nathanexe-arch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nathanexe-arch&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=440000"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanexe-arch&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanexe-arch&layout=compact&theme=dark&bg_color=0d0d0d&title_color=ff0000&text_color=ffffff&border_color=440000"/>
 
 </div>
 
 ---
 
-## 🔥 Atividade
+## 🔥 𝙂𝙄𝙏𝙃𝙐𝘽 𝙎𝙏𝙍𝙀𝘼𝙆
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nathanexe-arch\&theme=tokyonight\&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=nathanexe-arch&theme=dark&background=0d0d0d&border=440000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ffffff&dates=888888"/>
 
 </div>
 
 ---
 
-## 📈 Meu objetivo
+## 🎯 𝙁𝙐𝙏𝙐𝙍𝙀
 
-Continuar desenvolvendo minhas habilidades em tecnologia através de projetos próprios, estudos e experiências práticas.
+Meu objetivo é continuar desenvolvendo minhas habilidades através de **projetos, estudos e experiências práticas**.
 
-Meu foco é construir uma base sólida em **desenvolvimento, automação e tecnologia**, enquanto exploro diferentes áreas e descubro onde posso evoluir ainda mais.
+Quero explorar diferentes áreas da tecnologia e construir uma base sólida em desenvolvimento, automação e resolução de problemas.
 
----
-
-## 🌎 Conecte-se comigo
-
-<div align="center">
-
-<a href="nathanmacedo">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="nathanramosmacedo18@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+```text
+LEARN
+  ↓
+BUILD
+  ↓
+BREAK
+  ↓
+FIX
+  ↓
+BUILD AGAIN
+```
 
 ---
 
 <div align="center">
 
-### 💻 `Code. Build. Learn. Repeat.`
+## 🩸 `「 BUILD YOUR OWN PATH 」`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:220000,100:050505&height=120&section=footer"/>
 
 </div>
