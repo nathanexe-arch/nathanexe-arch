@@ -1,12 +1,16 @@
 <div align="center">
 
+<img src="https://media.tenor.com/your-gif-url.gif" width="700">
+
 # 🩸 NATHAN RAMOS MACEDO
 
-### `ESTUDANTE • DESENVOLVIMENTO • TECNOLOGIA`
+### `nathanexe-arch`
+
+`ESTUDANTE • DEVELOPER • LOGÍSTICA • TECNOLOGIA`
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:220000,100:8B0000&height=200&section=header&text=NATHAN%20RAMOS%20MACEDO&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:300000,100:990000&height=160&section=header&text=NATHANEXE&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 </div>
 
@@ -14,36 +18,38 @@
 
 <div align="center">
 
-### 「 東京喰種 」
+# 🩸 「 東京喰種 」
 
-`人間か、喰種か。`
+### `WELCOME TO MY PROFILE`
 
 </div>
 
 ---
 
-## 🩸 𝙒𝙃𝙊 𝘼𝙈 𝙄?
-
-> **Nathan Ramos Macedo**
-
-Sou estudante interessado em **tecnologia, programação, automação e logística**.
-
-Gosto de aprender através de projetos práticos, explorando desde desenvolvimento web até Arduino, eletrônica e automação.
+## 🕷️ ABOUT ME
 
 ```text
-╔══════════════════════════════════════╗
-║  🎓  ESTUDANTE                       ║
-║  💻  DESENVOLVIMENTO                 ║
-║  🔧  ARDUINO / ELETRÔNICA            ║
-║  📦  LOGÍSTICA                       ║
-║  🌐  DESENVOLVIMENTO WEB             ║
-║  🩸  BUILD • BREAK • REBUILD          ║
-╚══════════════════════════════════════╝
+> Nathan Ramos Macedo
+
+[+] Estudante
+[+] Desenvolvimento Web
+[+] Arduino & Eletrônica
+[+] Logística
+[+] Automação
+[+] Git & GitHub
+
+> Transformando ideias em projetos.
 ```
+
+<div align="center">
+
+<img src="https://gifdb.com/gif/tokyo-ghoul-kaneki-red-eye-n2lhwyrxsaa69eus.gif" width="500">
+
+</div>
 
 ---
 
-## 🕷️ 𝙏𝙀𝘾𝙃 𝙎𝙏𝘼𝘾𝙆
+## ⚡ TECH STACK
 
 <div align="center">
 
@@ -53,98 +59,81 @@ Gosto de aprender através de projetos práticos, explorando desde desenvolvimen
 
 ---
 
-## 🩸 𝙋𝙍𝙊𝙅𝙀𝘾𝙏𝙎
+## 🩸 PROJECTS
 
-### 📡 `RADAR ULTRASSÔNICO`
+### 📡 Radar Ultrassônico
 
-Projeto utilizando **Arduino + sensor ultrassônico + servo motor**, criando um sistema capaz de detectar objetos e representar a área monitorada visualmente.
+Sistema desenvolvido com Arduino, sensor ultrassônico e servo motor para detectar objetos e representar a área monitorada.
 
-```text
-ARDUINO
-   │
-   ├── SENSOR ULTRASSÔNICO
-   │
-   ├── SERVO MOTOR
-   │
-   └── INTERFACE WEB
-```
-
-`Arduino` `Ultrassônico` `Servo` `HTML` `CSS` `JavaScript`
+`Arduino` `Ultrassônico` `Servo Motor` `HTML` `CSS` `JavaScript`
 
 ---
 
-### 🔐 `SISTEMA DE IDENTIFICAÇÃO`
+### 🔐 Sistema de Identificação
 
-Projeto de automação utilizando **RFID**, explorando identificação, leitura de cartões e integração entre hardware e software.
+Projeto utilizando Arduino e RFID para estudar identificação e integração entre hardware e software.
 
 `Arduino` `RFID` `C/C++`
 
 ---
 
-### 🤠 `URNA DO VELHO OESTE`
+### 🤠 Urna do Velho Oeste
 
-Projeto web inspirado no universo de **Red Dead Redemption 2**, desenvolvido para praticar lógica de programação, interface e interação com JavaScript.
+Projeto web inspirado em Red Dead Redemption 2, desenvolvido utilizando HTML, CSS e JavaScript.
 
 `HTML` `CSS` `JavaScript`
 
 ---
 
-### 📦 `LOGÍSTICA & TECNOLOGIA`
+### 📦 Logística & Tecnologia
 
-Projetos acadêmicos relacionados a **estoque, organização, processos logísticos e tecnologia aplicada à logística**.
+Projetos acadêmicos relacionados a estoque, organização, processos e tecnologia aplicada à logística.
 
 `Logística` `Excel` `Gestão`
 
 ---
 
-## 🧠 𝙎𝙏𝙐𝘿𝙔𝙄𝙉𝙂
+<div align="center">
+
+<img src="https://gifdb.com/gif/red-eye-anime-tokyo-ghoul-kaneki-pj4yjo3epw8ezjx7.gif" width="450">
+
+</div>
+
+---
+
+## 🧠 CURRENTLY LEARNING
 
 ```text
-┌─────────────────────────────────────┐
-│                                     │
-│  WEB                                │
-│  ├── HTML                           │
-│  ├── CSS                            │
-│  └── JavaScript                     │
-│                                     │
-│  BACKEND                            │
-│  └── PHP                            │
-│                                     │
-│  HARDWARE                           │
-│  ├── Arduino                        │
-│  └── Eletrônica                     │
-│                                     │
-│  TOOLS                              │
-│  ├── Git                            │
-│  ├── GitHub                         │
-│  └── VS Code                        │
-│                                     │
-└─────────────────────────────────────┘
+HTML / CSS
+JavaScript
+PHP
+Arduino
+Eletrônica
+Git
+GitHub
+Desenvolvimento Web
+Logística
 ```
 
 ---
 
-## 🥀 𝘼𝘾𝙃𝙄𝙀𝙑𝙀𝙈𝙀𝙉𝙏𝙎
+## 🏆 ACHIEVEMENTS
 
-### 🥈 `LOCKER ID`
+🥈 **Locker ID**
+2º lugar em projeto desenvolvido durante minha formação.
 
-**2º lugar** em projeto desenvolvido durante minha formação.
+📊 **Excel Básico**
+Certificação pela Santander Open Academy.
 
-### 📊 `EXCEL`
+📦 **Logística**
+Formação e projetos acadêmicos relacionados à área.
 
-Certificação em **Excel Básico** pela Santander Open Academy.
-
-### 📦 `LOGÍSTICA`
-
-Formação e projetos acadêmicos relacionados à área de logística.
-
-### 💻 `INFORMÁTICA PARA INTERNET`
-
+💻 **Informática para Internet**
 Formação voltada para tecnologia e desenvolvimento.
 
 ---
 
-## 📊 𝙂𝙄𝙏𝙃𝙐𝘽 𝙎𝙏𝘼𝙏𝙎
+## 📊 GITHUB STATS
 
 <div align="center">
 
@@ -156,7 +145,7 @@ Formação voltada para tecnologia e desenvolvimento.
 
 ---
 
-## 🔥 𝙂𝙄𝙏𝙃𝙐𝘽 𝙎𝙏𝙍𝙀𝘼𝙆
+## 🔥 GITHUB STREAK
 
 <div align="center">
 
@@ -166,32 +155,10 @@ Formação voltada para tecnologia e desenvolvimento.
 
 ---
 
-## 🎯 𝙁𝙐𝙏𝙐𝙍𝙀
-
-Meu objetivo é continuar desenvolvendo minhas habilidades através de **projetos, estudos e experiências práticas**.
-
-Quero explorar diferentes áreas da tecnologia e construir uma base sólida em desenvolvimento, automação e resolução de problemas.
-
-```text
-LEARN
-  ↓
-BUILD
-  ↓
-BREAK
-  ↓
-FIX
-  ↓
-BUILD AGAIN
-```
-
----
-
 <div align="center">
 
-## 🩸 `「 BUILD YOUR OWN PATH 」`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:990000,50:300000,100:050505&height=120&section=footer"/>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:220000,100:050505&height=120&section=footer"/>
+### `🩸 BUILD • BREAK • FIX • REPEAT 🩸`
 
 </div>
