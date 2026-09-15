@@ -1,12 +1,87 @@
+# Nathan Ramos Macedo
+
+### Estudante de Tecnologia • Desenvolvimento • Logística
+
+> Transformando ideias em projetos e aprendendo algo novo a cada linha de código.
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou estudante interessado em tecnologia, desenvolvimento de sistemas e automação.
+
+Atualmente estou estudando e desenvolvendo projetos envolvendo **HTML, CSS, JavaScript, PHP, Arduino e Git/GitHub**, sempre buscando transformar o que aprendo em projetos práticos.
+
+Também tenho formação em **Logística**, o que me permite unir tecnologia e processos para criar soluções mais eficientes.
+
+---
+
+## 🛠️ Tecnologias
+
 <div align="center">
 
-# 🩸 NATHAN RAMOS MACEDO
+![HTML5](https://img.shields.io/badge/HTML5-151515?style=for-the-badge\&logo=html5\&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-151515?style=for-the-badge\&logo=css3\&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-151515?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-151515?style=for-the-badge\&logo=php\&logoColor=777BB4)
+![Arduino](https://img.shields.io/badge/Arduino-151515?style=for-the-badge\&logo=arduino\&logoColor=00979D)
+![Git](https://img.shields.io/badge/Git-151515?style=for-the-badge\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-151515?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
 
-### `ESTUDANTE • DESENVOLVIMENTO • TECNOLOGIA`
+</div>
 
-<br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:220000,100:8B0000&height=200&section=header&text=NATHAN%20RAMOS%20MACEDO&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+## 🚀 Projetos
+
+### 📡 Arduino
+
+Projetos envolvendo sensores, automação e sistemas físicos conectados ao código.
+
+### 🗳️ Urna do Velho Oeste
+
+Projeto web inspirado em Red Dead Redemption 2, desenvolvido com HTML, CSS e JavaScript.
+
+### 📊 Sistemas Web
+
+Projetos acadêmicos envolvendo lógica de programação, formulários, PHP e organização de sistemas.
+
+### 📦 Logística
+
+Projetos e experiências relacionados a estoque, processos e organização logística.
+
+---
+
+## 📚 Atualmente estudando
+
+* Desenvolvimento Web
+* JavaScript
+* PHP
+* Git & GitHub
+* Arduino
+* Lógica de programação
+* Automação
+* Tecnologia aplicada à logística
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathanexe-arch&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanexe-arch&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-nathanexe--arch-181717?style=for-the-badge\&logo=github)](https://github.com/nathanexe-arch)
 
 </div>
 
@@ -14,184 +89,6 @@
 
 <div align="center">
 
-### 「 東京喰種 」
-
-`人間か、喰種か。`
-
-</div>
-
----
-
-## 🩸 𝙒𝙃𝙊 𝘼𝙈 𝙄?
-
-> **Nathan Ramos Macedo**
-
-Sou estudante interessado em **tecnologia, programação, automação e logística**.
-
-Gosto de aprender através de projetos práticos, explorando desde desenvolvimento web até Arduino, eletrônica e automação.
-
-```text
-╔══════════════════════════════════════╗
-║  🎓  ESTUDANTE                       ║
-║  💻  DESENVOLVIMENTO                 ║
-║  🔧  ARDUINO / ELETRÔNICA            ║
-║  📦  LOGÍSTICA                       ║
-║  🌐  DESENVOLVIMENTO WEB             ║
-║  🩸  BUILD • BREAK • REBUILD          ║
-╚══════════════════════════════════════╝
-```
-
----
-
-## 🕷️ 𝙏𝙀𝘾𝙃 𝙎𝙏𝘼𝘾𝙆
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,arduino,git,github,vscode&theme=dark" />
-
-</div>
-
----
-
-## 🩸 𝙋𝙍𝙊𝙅𝙀𝘾𝙏𝙎
-
-### 📡 `RADAR ULTRASSÔNICO`
-
-Projeto utilizando **Arduino + sensor ultrassônico + servo motor**, criando um sistema capaz de detectar objetos e representar a área monitorada visualmente.
-
-```text
-ARDUINO
-   │
-   ├── SENSOR ULTRASSÔNICO
-   │
-   ├── SERVO MOTOR
-   │
-   └── INTERFACE WEB
-```
-
-`Arduino` `Ultrassônico` `Servo` `HTML` `CSS` `JavaScript`
-
----
-
-### 🔐 `SISTEMA DE IDENTIFICAÇÃO`
-
-Projeto de automação utilizando **RFID**, explorando identificação, leitura de cartões e integração entre hardware e software.
-
-`Arduino` `RFID` `C/C++`
-
----
-
-### 🤠 `URNA DO VELHO OESTE`
-
-Projeto web inspirado no universo de **Red Dead Redemption 2**, desenvolvido para praticar lógica de programação, interface e interação com JavaScript.
-
-`HTML` `CSS` `JavaScript`
-
----
-
-### 📦 `LOGÍSTICA & TECNOLOGIA`
-
-Projetos acadêmicos relacionados a **estoque, organização, processos logísticos e tecnologia aplicada à logística**.
-
-`Logística` `Excel` `Gestão`
-
----
-
-## 🧠 𝙎𝙏𝙐𝘿𝙔𝙄𝙉𝙂
-
-```text
-┌─────────────────────────────────────┐
-│                                     │
-│  WEB                                │
-│  ├── HTML                           │
-│  ├── CSS                            │
-│  └── JavaScript                     │
-│                                     │
-│  BACKEND                            │
-│  └── PHP                            │
-│                                     │
-│  HARDWARE                           │
-│  ├── Arduino                        │
-│  └── Eletrônica                     │
-│                                     │
-│  TOOLS                              │
-│  ├── Git                            │
-│  ├── GitHub                         │
-│  └── VS Code                        │
-│                                     │
-└─────────────────────────────────────┘
-```
-
----
-
-## 🥀 𝘼𝘾𝙃𝙄𝙀𝙑𝙀𝙈𝙀𝙉𝙏𝙎
-
-### 🥈 `LOCKER ID`
-
-**2º lugar** em projeto desenvolvido durante minha formação.
-
-### 📊 `EXCEL`
-
-Certificação em **Excel Básico** pela Santander Open Academy.
-
-### 📦 `LOGÍSTICA`
-
-Formação e projetos acadêmicos relacionados à área de logística.
-
-### 💻 `INFORMÁTICA PARA INTERNET`
-
-Formação voltada para tecnologia e desenvolvimento.
-
----
-
-## 📊 𝙂𝙄𝙏𝙃𝙐𝘽 𝙎𝙏𝘼𝙏𝙎
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nathanexe-arch&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=440000"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanexe-arch&layout=compact&theme=dark&bg_color=0d0d0d&title_color=ff0000&text_color=ffffff&border_color=440000"/>
-
-</div>
-
----
-
-## 🔥 𝙂𝙄𝙏𝙃𝙐𝘽 𝙎𝙏𝙍𝙀𝘼𝙆
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=nathanexe-arch&theme=dark&background=0d0d0d&border=440000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ffffff&dates=888888"/>
-
-</div>
-
----
-
-## 🎯 𝙁𝙐𝙏𝙐𝙍𝙀
-
-Meu objetivo é continuar desenvolvendo minhas habilidades através de **projetos, estudos e experiências práticas**.
-
-Quero explorar diferentes áreas da tecnologia e construir uma base sólida em desenvolvimento, automação e resolução de problemas.
-
-```text
-LEARN
-  ↓
-BUILD
-  ↓
-BREAK
-  ↓
-FIX
-  ↓
-BUILD AGAIN
-```
-
----
-
-<div align="center">
-
-## 🩸 `「 BUILD YOUR OWN PATH 」`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:220000,100:050505&height=120&section=footer"/>
+### `>_ Sempre aprendendo. Sempre construindo.`
 
 </div>
